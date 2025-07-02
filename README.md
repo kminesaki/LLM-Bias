@@ -1,7 +1,7 @@
 # LLM-Bias
 In this repository, codes used in 2025S GLA final Unessay project are stored.
 
-In this _Unessay Project_, I assessed gender and racial bias on LLMs. I gave two prompts to a LLM (gemini-1.5-pro), referencing Bai et al. (2024). 
+In this _Unessay Project_, I assessed gender and racial bias in LLMs. I gave two prompts to a LLM (gemini-1.5-pro), referencing Bai et al. (2024). 
 
 ### Prompts
 {occupation\_list} refers to a occupation list collected by web-scraping from [U.S. BLS website](https://www.bls.gov/ooh/about/data-for-occupations-not-covered-in-detail.htm). In detail, check `web_scraping.ipynb`
